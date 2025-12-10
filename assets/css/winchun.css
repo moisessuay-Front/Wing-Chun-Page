@@ -23,17 +23,17 @@ body {
     border: auto;
     image-rendering: optimizeQuality;
     justify-items: center;
-    /* width: 1500px; */
-    width: 120%;
+    width: 1500px;
+    display: flex;
+    position: relative;
 }
 
 .texto-encima {
     position: absolute;
-    top: 50%;                  /* Centra verticalmente */
-    left: 50%;                 /* Centra horizontalmente */
-   
-    color: white;              /* Color del texto */
-    font-size: 2rem;           /* Tamaño del texto */
+    display: flex;
+    justify-content: center;             
+    align-items: center;                 
+    color: white;              
     font-weight: bold;
     text-shadow: rgb(158, 16, 16); /* Mejora la visibilidad */
 }
