@@ -10,12 +10,7 @@ body {
     background-color:#222622;
 }
 
-.logo-escuela {
-    background-color: transparent;
-        
-}
-
-.imagen {
+/* .imagen-test {
 
     padding: auto;
     margin: auto;
@@ -25,14 +20,14 @@ body {
     width: 1500px;
     display: flex;
     position: relative;
-}
+} */
 
-.texto-encima {
+/* .texto-encima {
     position: absolute;
     display: flex;
     justify-content: center;             
     align-items: center;                 
     color: white;              
     font-weight: bold;
-    text-shadow: rgb(158, 16, 16); /* Mejora la visibilidad */
-}
+    text-shadow: rgb(158, 16, 16); 
+} */
